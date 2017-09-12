@@ -1,0 +1,29 @@
+{
+  "name": "js-personal-styles",
+  "version": "1.0.0",
+  "description": "My Personal Styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorissparla/js-personal-styles.git"
+  },
+  "author": "Joris Sparla <joris.sparla@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorissparla/js-personal-styles/issues"
+  },
+  "homepage": "https://github.com/jorissparla/js-personal-styles#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  },
+  "dependencies": {
+    "styled-components": "^2.1.2"
+  }
+}
