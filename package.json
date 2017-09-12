@@ -24,6 +24,7 @@
     "mocha": "^3.5.3"
   },
   "dependencies": {
-    "styled-components": "^2.1.2"
+    "styled-components": "^2.1.2",
+    "styled-spinkit": "^0.1.8"
   }
 }
